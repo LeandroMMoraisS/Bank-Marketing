@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/
+HostUrl=https://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.data
